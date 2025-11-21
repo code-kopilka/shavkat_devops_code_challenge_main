@@ -1,0 +1,3 @@
+### Since the request was to prepare the application code for deployment, I checked it from different perspectives like security, code correctness, efficiency, logging, etc. Fixed all security vulnerabilities, made sure the code is production ready, terraform code is good, docker container is optimized etc.
+### All changes I made to the code is listed in the CHANGES.md file.
+### I have tried to make sure the code is production ready, even though I did not apply all the changes to make it fully production ready (I simply did not have enough time), I tried to list my suggestions on what needs to be improved and worked on in future. 
